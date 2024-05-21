@@ -4,7 +4,7 @@
 
 # Aplicação para Seleção de Setor para Atendimento da QuantumFinance
 
-Esta aplicação (frontend) é a camada de entrada dos usuários para, a partir da descrição da reclamação ou necessidade de ajuda, o usuário ser direcionado para o setor resposável para atendimento.
+Esta aplicação (frontend) é a camada de entrada dos usuários para, a partir da descrição da reclamação ou necessidade de ajuda, o usuário ser direcionado para o setor resposável para atendimento. Este projeto faz parte da disciplina de MLOps do curso MBA Data Science & Artificial Intelligence da FIAP
 
 Foi construída baseda numa solução fim-a-fim de machine learning, que inclui:
 
