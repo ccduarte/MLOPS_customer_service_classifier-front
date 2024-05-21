@@ -1,8 +1,8 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://laptopricing.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantumfinancesac.streamlit.app)
 
-# Aplicação para Predição de Preços de Laptop
+# Aplicação para Seleção de setor para atendimento da QuantumFinance
 
-Esta aplicação (frontend) é a camada de entrada dos usuários para, a partir de determinadas informações como processador, memória e CPU, obter o valor estimado de um laptop.
+Esta aplicação (frontend) é a camada de entrada dos usuários para, a partir da descrição da reclamação ou necessidade de ajuda, o usuário ser direcionado para o setor resposável para atendimento.
 
 Foi construída baseda numa solução fim-a-fim de machine learning, que inclui:
 
@@ -26,5 +26,3 @@ Foi construída baseda numa solução fim-a-fim de machine learning, que inclui:
 ## Uso
 
 Esta aplicação está configurada no Streamlit Cloud de tal forma que qualquer modificação na branch ```master``` será lançada uma nova atualização.
-
-Para realizar depuração local utilizando o VSCode, utilze o ```launch.json``` que possui as configurações necessárias.
